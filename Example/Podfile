@@ -8,5 +8,4 @@ end
 target 'SAConfettiView_Tests', :exclusive => true do
   pod "SAConfettiView", :path => "../"
 
-  
 end
